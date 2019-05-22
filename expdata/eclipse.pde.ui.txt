@@ -1,0 +1,1161 @@
+Type:	BugID	QE	Query
+===================================
+
+Baseline:149506	282	Code folding nudge 
+Quickar:149506	-1	Code nudge 
+================================================
+
+Baseline:229382	772	NPE identifier browse button 
+Quickar:229382	-1	NPE identifier button 
+================================================
+
+Baseline:153093	745	Inconsistent placement labels update site editor 
+Quickar:153093	132	placement labels site editor web plugin window property viewer 
+================================================
+
+Baseline:169480	1761	MANIFEST editor display plug names commas 
+Quickar:169480	-1	editor display plug names commas 
+================================================
+
+Baseline:232463	12	Target Platform pref fully reset Restore Defaults 
+Quickar:232463	9	Target Platform pref Defaults output doesn callback choice export 
+================================================
+
+Baseline:296457	270	Problems problems quick fixes build properties 
+Quickar:296457	431	Problems problems fixes properties 
+================================================
+
+Baseline:297483	67	warn file folder output library entry 
+Quickar:297483	98	file folder output library entry 
+================================================
+
+Baseline:203795	134	exception opening editing site xml features invalid qualifier strings 
+Quickar:203795	120	exception editing site xml features qualifier strings 
+================================================
+
+Baseline:227346	51	PDECompletionProposal implement ICompletionProposalExtension 
+Quickar:227346	1	PDECompletion Proposal PDECompletionProposal ICompletion Extension ICompletionProposalExtension pattern difference 
+================================================
+
+Baseline:173072	135	Wrong plugin editor opened clicking plugin 
+Quickar:173072	89	plugin editor assembly project jetty dependencies property 
+================================================
+
+Baseline:241169	17	Product editor license field 
+Quickar:241169	7	Product editor license field access property plugin input custom 
+================================================
+
+Baseline:155158	272	Product editor doesn support delete key 
+Quickar:155158	205	Product editor doesn support key 
+================================================
+
+Baseline:138260	116	Enforce META INF included build properties 
+Quickar:138260	38	META INF properties 
+================================================
+
+Baseline:211477	121	Preference opened Plug Wizard wrong parent 
+Quickar:211477	99	Preference Plug Wizard parent 
+================================================
+
+Baseline:215579	314	ModelEntry getBestCandidate bad choices 
+Quickar:215579	173	Model Entry ModelEntry Best Candidate getBestCandidate choices request call system 
+================================================
+
+Baseline:177177	911	Extension points dependencies 
+Quickar:177177	911	Extension points dependencies 
+================================================
+
+Baseline:218648	155	Error Log Export Log exports error 
+Quickar:218648	667	Error Export exports error 
+================================================
+
+Baseline:175134	11	Add Java Search easier find 
+Quickar:175134	139	Java 
+================================================
+
+Baseline:198175	18	click expand nodes 
+Quickar:198175	-1	nodes 
+================================================
+
+Baseline:173085	346	Plug working set IWorkingSetElementAdapter API 
+Quickar:173085	154	Plug Element Adapter IWorkingSetElementAdapter API util key documentation result library 
+================================================
+
+Baseline:175138	34	Widget disposed error 
+Quickar:175138	-1	Widget error 
+================================================
+
+Baseline:119843	14	Exporting plug leaves file javaCompiler args 
+Quickar:119843	191	Exporting plug leaves file java Compiler javaCompiler args 
+================================================
+
+Baseline:167968	21	calculate directive exports 
+Quickar:167968	109	directive exports 
+================================================
+
+Baseline:202272	149	drop fragment project Overview tab confusing 
+Quickar:202272	149	drop fragment project Overview tab 
+================================================
+
+Baseline:179238	32	Extension list filtered tree clear button bad positioned 
+Quickar:179238	400	Extension list tree button 
+================================================
+
+Baseline:309795	390	workspace didn compile restart reload Target Platform 
+Quickar:309795	356	workspace didn reload Target Platform 
+================================================
+
+Baseline:138795	477	Presentation names features 
+Quickar:138795	245	Presentation names features column property table language list 
+================================================
+
+Baseline:231977	289	copying multiple extensions triggers java lang ClassCastException 
+Quickar:231977	495	copying extensions triggers java lang Class Exception ClassCastException 
+================================================
+
+Baseline:230447	118	Invalid warning bundle classpath 
+Quickar:230447	102	bundle classpath resource jar runtime properties xml 
+================================================
+
+Baseline:151599	45	Info Presentation manifest attributes headers 
+Quickar:151599	58	Info Presentation attributes headers 
+================================================
+
+Baseline:226349	111	Eclipse logs seemingly useless install bundle error bundle 
+Quickar:226349	270	Eclipse logs bundle error 
+================================================
+
+Baseline:190515	16	Add Java Search progress dialog 
+Quickar:190515	1137	Java progress dialog 
+================================================
+
+Baseline:172080	498	Quick broken Externalize manifest header 
+Quickar:172080	630	header 
+================================================
+
+Baseline:280119	23	TOC Editor debug XML errors 
+Quickar:280119	18	TOC Editor XML errors 
+================================================
+
+Baseline:179259	66	PDE editor fragments Runtim Visibility Add 
+Quickar:179259	246	PDE editor fragments Runtim Visibility 
+================================================
+
+Baseline:163384	91	Wrong order classpath entries hosting 
+Quickar:163384	14	order classpath entries reverse list elements resource jar 
+================================================
+
+Baseline:151609	1574	Remove deprecations plugin xml 
+Quickar:151609	396	deprecations plugin xml web persistence javax context log 
+================================================
+
+Baseline:177212	79	Dependency View update models removed 
+Quickar:177212	25	Dependency View models 
+================================================
+
+Baseline:229441	146	invalid flagging internal extension points 
+Quickar:229441	99	extension points filename jsp action point couple 
+================================================
+
+Baseline:198724	102	Raise warning bundle classpath source folders 
+Quickar:198724	97	bundle classpath source folders 
+================================================
+
+Baseline:220235	167	Project specific Plug Manifest Compiler properties broken 
+Quickar:220235	808	Project Plug Compiler properties 
+================================================
+
+Baseline:151112	78	Organize Manifests adds settings META INF Export 
+Quickar:151112	437	settings META INF Export 
+================================================
+
+Baseline:166984	597	Eclipse Application launch config fails SWT fragment workspace 
+Quickar:166984	217	Eclipse Application launch config SWT fragment workspace project plugin xml 
+================================================
+
+Baseline:114779	75	PDE doesnt plug exporting target platform environment matches plug platform filter 
+Quickar:114779	36	PDE doesnt plug target platform environment matches filter cross variables 
+================================================
+
+Baseline:231001	97	NPE computing feature dependencies 
+Quickar:231001	97	NPE computing feature dependencies 
+================================================
+
+Baseline:321624	18	Pgm Arguments duplicated launching product editor 
+Quickar:321624	10	Pgm Arguments product editor 
+================================================
+
+Baseline:308313	16	Plug Manifest Builder fails errors exceptions build workspace 
+Quickar:308313	60	Plug Builder errors exceptions workspace 
+================================================
+
+Baseline:203356	96	target platform looses previous bundles adding directory target plugins 
+Quickar:203356	97	target platform bundles directory plugins 
+================================================
+
+Baseline:185955	21	Target setting Plug Project wizard remembers 
+Quickar:185955	17	Target Plug Project wizard 
+================================================
+
+Baseline:210529	112	update Error installing examples provisioned SDK 
+Quickar:210529	326	Error examples SDK 
+================================================
+
+Baseline:240737	7302	product set start levels product 
+Quickar:240737	58	product start levels web thread time app program 
+================================================
+
+Baseline:308321	18	spinner column area eclipse app launch config 
+Quickar:308321	14	spinner column area app launch config web engine table xml 
+================================================
+
+Baseline:293474	1419	Editing extensions PDE editor creates invalid plugin xml 
+Quickar:293474	226	Editing extensions PDE editor plugin xml web persistence javax context 
+================================================
+
+Baseline:183405	328	Manifest Editors Required Plug ins title missing Dependencies 
+Quickar:183405	171	Editors Plug ins title Dependencies 
+================================================
+
+Baseline:277611	362	target Target Platform brings plugins previous installations 
+Quickar:277611	16	target Target Platform plugins installations directory folder compilers hunt dependencies 
+================================================
+
+Baseline:154739	1709	PDE editor tab tooltip fully qualified opened plugin deps view 
+Quickar:154739	1413	PDE editor tab tooltip plugin deps view 
+================================================
+
+Baseline:158326	29	Opening build properties big plug locks flashes cursor 
+Quickar:158326	365	Opening properties plug locks flashes cursor 
+================================================
+
+Baseline:181878	112	Site Editor Multi select love needed 
+Quickar:181878	71	Site Editor Multi love 
+================================================
+
+Baseline:312434	17	NPE SourceEntryErrorReporter validate 
+Quickar:312434	1	NPE Source Entry Error Reporter SourceEntryErrorReporter storage lang javax reading 
+================================================
+
+Baseline:136314	671	NPE org eclipse pde internal editor plugin DependencyManagementSection 
+Quickar:136314	1	NPE org pde editor plugin Dependency Management Section DependencyManagementSection dom 
+================================================
+
+Baseline:183417	29	Bidi Elements labels extensions fragment manifest characters order incorrect 
+Quickar:183417	3	Bidi Elements labels extensions fragment characters order unicode escape reverse 
+================================================
+
+Baseline:216703	95	Validate dialog narrow 
+Quickar:216703	9	dialog box boxes style option top 
+================================================
+
+Baseline:181884	28	Manifest Content Assist Require Bundle fancy Fragment Host 
+Quickar:181884	64	Content Bundle fancy Fragment Host 
+================================================
+
+Baseline:172675	47	Provider form fields fragment overview updated externalization quick applied 
+Quickar:172675	24	Provider form fields fragment overview externalization 
+================================================
+
+Baseline:152199	11	Content Assist sort beautify proposals 
+Quickar:152199	7	Content sort beautify proposals list algorithm column order search 
+================================================
+
+Baseline:151172	143	PDE Manifest Editor treat OSGI manifest headers insensitive 
+Quickar:151172	2138	PDE Editor treat OSGI headers 
+================================================
+
+Baseline:178309	59	add required bundles product editor brings javax servlet 
+Quickar:178309	101	bundles product editor javax servlet 
+================================================
+
+Baseline:263299	74	target definition Support appending ini args launch 
+Quickar:263299	74	target definition Support ini args launch 
+================================================
+
+Baseline:209547	19	spy improve logging 
+Quickar:209547	23	spy 
+================================================
+
+Baseline:175756	131	PDE imports signatures source 
+Quickar:175756	9	PDE imports signatures source library project directory projects level 
+================================================
+
+Baseline:214156	17	Quickfix remove Bundle Activator lazy start 
+Quickar:214156	25	Quickfix Bundle Activator start 
+================================================
+
+Baseline:166546	516	Exporting plug project plug ins classes 
+Quickar:166546	2156	Exporting plug project ins classes 
+================================================
+
+Baseline:209554	1962	check problems platform 
+Quickar:209554	1022	check problems platform cross status session security jre 
+================================================
+
+Baseline:173712	47	Plug Project jar wizard fails enable Finish button 
+Quickar:173712	43	Plug Project jar wizard button dependencies library resources runtime folder 
+================================================
+
+Baseline:179345	1644	plugin dialog unable cancel operation 
+Quickar:179345	1426	plugin dialog operation 
+================================================
+
+Baseline:101524	113	Support extension refactoring extension point ids 
+Quickar:101524	21	Support extension point ids entry values filename jsp numbers 
+================================================
+
+Baseline:130199	86	navigation ManifestEditor 
+Quickar:130199	90	navigation Editor ManifestEditor 
+================================================
+
+Baseline:312466	29	early call modify bundle root leaves WorkspacePluginModelManager initialized 
+Quickar:312466	1	call bundle root leaves Workspace Plugin Model Manager WorkspacePluginModelManager resource 
+================================================
+
+Baseline:129689	3854	Unable add extra dependencies RCP project 
+Quickar:129689	906	dependencies RCP project 
+================================================
+
+Baseline:238235	38	Bundle Localization OSGI INF bundle properties plugin properties 
+Quickar:238235	5	Bundle Localization OSGI INF bundle properties plugin log resource lib 
+================================================
+
+Baseline:174232	60	macosx Info plist 
+Quickar:174232	10	macosx Info parent org 
+================================================
+
+Baseline:201369	2030	Deleting Extension Point file problems 
+Quickar:201369	2013	Extension Point file problems 
+================================================
+
+Baseline:224409	607	ability mark extension points internal 
+Quickar:224409	1198	ability mark extension points 
+================================================
+
+Baseline:172703	665	list launch shortcuts PDE editor extensible 
+Quickar:172703	640	list launch shortcuts PDE editor 
+================================================
+
+Baseline:297115	178	error messages don recognize directories 
+Quickar:297115	40	error messages directories message compiler log codes memory 
+================================================
+
+Baseline:147619	26	Bundle Localization header validated 
+Quickar:147619	24	Bundle Localization header 
+================================================
+
+Baseline:198305	22	Manifest editor blows expanding node 
+Quickar:198305	32	editor blows node 
+================================================
+
+Baseline:229024	26	meta attribute schema insensitive 
+Quickar:229024	25	meta attribute schema 
+================================================
+
+Baseline:134311	45	validation Java project source output folders Plug Project Wizard 
+Quickar:134311	45	validation Java project source output folders Plug Project Wizard 
+================================================
+
+Baseline:198310	3859	PDE NLS wizard Preview 
+Quickar:198310	3859	PDE NLS wizard Preview 
+================================================
+
+Baseline:102055	436	Feature xml editor editing included features 
+Quickar:102055	390	Feature xml editor editing features 
+================================================
+
+Baseline:198309	30	Preview granular 
+Quickar:198309	30	Preview 
+================================================
+
+Baseline:128683	173	Organize Manifest detect remove exported bundles 
+Quickar:128683	-1	bundles 
+================================================
+
+Baseline:172716	134	Manifest Editor Add debug export buttons form header 
+Quickar:172716	48	Editor export buttons form header validation input web values request 
+================================================
+
+Baseline:172721	31	Extension point schema editor opens read plugin xml editor 
+Quickar:172721	17	Extension point schema editor plugin xml web persistence javax context 
+================================================
+
+Baseline:170678	22	Dependency Management account packages binary jars 
+Quickar:170678	17	Dependency Management account packages jars classpath user projects software jar 
+================================================
+
+Baseline:205493	268	Invalid Manifests multiple BundleDescription project 
+Quickar:205493	26	Bundle Description BundleDescription project web source dependencies jar plugin 
+================================================
+
+Baseline:197817	60	Plug removed Java Search imported source 
+Quickar:197817	202	Plug Java source 
+================================================
+
+Baseline:264383	17	target target definition wizard resets contents 
+Quickar:264383	19	target definition wizard resets contents 
+================================================
+
+Baseline:215743	135	schema errors displayed problems explorer views 
+Quickar:215743	127	schema errors problems explorer views 
+================================================
+
+Baseline:334523	16	NPE opening schema editor 
+Quickar:334523	15	NPE schema editor 
+================================================
+
+Baseline:195267	35	Features dependencies add features fail 
+Quickar:195267	81	Features dependencies features 
+================================================
+
+Baseline:180417	182	Initialize feature launch configurations 
+Quickar:180417	125	feature launch configurations 
+================================================
+
+Baseline:180420	1364	Plug wizard defaults biased plug development 
+Quickar:180420	409	Plug wizard defaults plug development web ins environment framework project 
+================================================
+
+Baseline:148171	1855	PDE Tools Open Manifest 
+Quickar:148171	662	PDE Tools finding ing draw features view 
+================================================
+
+Baseline:174281	48	Replace SystemFileEditorInput FileStoreEditorInput 
+Quickar:174281	9	System Editor Input SystemFileEditorInput Store FileStoreEditorInput println exit io gc 
+================================================
+
+Baseline:179401	62	Shells created launcher buttons wrong parents 
+Quickar:179401	53	Shells launcher buttons parents 
+================================================
+
+Baseline:264904	89	target File Target Definition 
+Quickar:264904	286	target Target Definition 
+================================================
+
+Baseline:148687	117	Extension Point enhancement 
+Quickar:148687	31	Extension Point enhancement image pattern difference functionality errors 
+================================================
+
+Baseline:264394	157	Adopt proper preferences story 
+Quickar:264394	114	preferences story 
+================================================
+
+Baseline:219852	3313	refactoring changing plugin properties update Bundle Localization 
+Quickar:219852	700	plugin properties Bundle Localization log project system xml load 
+================================================
+
+Baseline:158418	46	Creating osgi bundle project adds lazy start header 
+Quickar:158418	39	osgi bundle project start header web resource jar source dependencies 
+================================================
+
+Baseline:166610	1075	PDE extension registry Equinox 
+Quickar:166610	1075	PDE extension registry Equinox 
+================================================
+
+Baseline:210131	68	Extension Registry enhancement include disabled plug ins 
+Quickar:210131	51	Extension Registry enhancement plug ins 
+================================================
+
+Baseline:125648	742	Generate imports creating project jar 
+Quickar:125648	158	imports project jar dependencies web library source runtime 
+================================================
+
+Baseline:284885	50	launching manage launch configurations features feature based launching 
+Quickar:284885	34	launch configurations features feature bug language program work list 
+================================================
+
+Baseline:229584	125	Compute dependencies feature broken 
+Quickar:229584	92	dependencies feature 
+================================================
+
+Baseline:187094	46	NPE opening feature manifest 
+Quickar:187094	268	NPE feature 
+================================================
+
+Baseline:160475	464	Decorate erroneous additional bundles raw editor 
+Quickar:160475	210	bundles editor plugin property resource viewer cell 
+================================================
+
+Baseline:203993	23	Schema HTML generator CHKPII errors 
+Quickar:203993	11	Schema HTML generator errors content form tags validation tag 
+================================================
+
+Baseline:177379	408	NPE creating project jar org apache oro 
+Quickar:177379	362	NPE project jar org oro 
+================================================
+
+Baseline:180960	341	Project check project filesystem 
+Quickar:180960	309	Project check project filesystem web source dependencies status jar 
+================================================
+
+Baseline:156385	575	NPE add dependencies plugin 
+Quickar:156385	576	NPE dependencies plugin 
+================================================
+
+Baseline:158945	234	PDE handle space required bundle version 
+Quickar:158945	31	PDE space bundle version number resource control error jar 
+================================================
+
+Baseline:173793	147	adding Preview Organize Manifest tool 
+Quickar:173793	-1	Preview tool 
+================================================
+
+Baseline:217824	463	Target longer start importing binary plug ins 
+Quickar:217824	2194	Target start plug ins 
+================================================
+
+Baseline:291559	111	Create preferences build properties problems 
+Quickar:291559	337	preferences properties problems 
+================================================
+
+Baseline:181476	11	existing plugin destroys custom project natures 
+Quickar:181476	11	plugin custom project natures 
+================================================
+
+Baseline:184041	1265	Changing target environment update plugin container 
+Quickar:184041	245	target environment plugin container servlet variables web development component 
+================================================
+
+Baseline:209138	39	host plugin presented Automated Management Dependencies Add dialog fragment 
+Quickar:209138	62	host plugin Management Dependencies dialog fragment 
+================================================
+
+Baseline:298742	196	Duplicate unordered problems build properties 
+Quickar:298742	581	problems properties 
+================================================
+
+Baseline:153329	872	Refactor Rename resources update plugin xml 
+Quickar:153329	2620	Refactor resources plugin xml 
+================================================
+
+Baseline:217333	95	MainTab Location hyperlinked 
+Quickar:217333	35	Main Tab MainTab Location 
+================================================
+
+Baseline:226037	71	initialization policy target platform based location 
+Quickar:226037	45	initialization policy target platform location 
+================================================
+
+Baseline:323827	11	Wrong colour parent composite error log view 
+Quickar:323827	10	colour parent error log view 
+================================================
+
+Baseline:156414	1237	Widget Disposed error creating OSGi manifest 
+Quickar:156414	851	Widget error OSGi message compiler bundle codes service 
+================================================
+
+Baseline:162557	76	SWTException thrown DependencyManagementSection refresh 
+Quickar:162557	1	SWTException Dependency Management Section DependencyManagementSection mapping access log dependency systems 
+================================================
+
+Baseline:185597	676	Errors creating school plug ins 
+Quickar:185597	-1	Errors school plug ins 
+================================================
+
+Baseline:209155	103	NPE PDERegistryStrategy deleting plug ins 
+Quickar:209155	116	NPE PDERegistry Strategy PDERegistryStrategy plug ins 
+================================================
+
+Baseline:232706	38	Organize Manifest Mark internal internal pattern 
+Quickar:232706	95	Mark pattern 
+================================================
+
+Baseline:206081	38	Source Locations included directories target platform 
+Quickar:206081	16	Source Locations directories target platform 
+================================================
+
+Baseline:247553	284	Export version creating Plug existing JAR archives 
+Quickar:247553	9	Export version Plug JAR archives number control project bit library 
+================================================
+
+Baseline:139526	213	Extra Dependency 
+Quickar:139526	74	Extra Dependency button mapping log objects bundle 
+================================================
+
+Baseline:170756	516	Quick Add missing packages add internal packages internal 
+Quickar:170756	101	packages 
+================================================
+
+Baseline:210181	159	Add decoration optional packages 
+Quickar:210181	68	decoration packages 
+================================================
+
+Baseline:196874	195	Manifest Editors Selection behaviour wrong delete Extension tree viewer 
+Quickar:196874	137	Editors Selection behaviour Extension tree viewer structure node search objects 
+================================================
+
+Baseline:272654	786	Manifest Editors Select text creating attribute element 
+Quickar:272654	578	Editors Select text attribute element 
+================================================
+
+Baseline:101644	115	Browse plugin editor init actual 
+Quickar:101644	84	plugin editor init 
+================================================
+
+Baseline:201998	591	Provide wizard generates fragments 
+Quickar:201998	607	wizard fragments 
+================================================
+
+Baseline:177420	1359	EquinoxLaunchConfiguration bundle version launching 
+Quickar:177420	276	Equinox Configuration EquinoxLaunchConfiguration bundle version number resource control jar bit 
+================================================
+
+Baseline:212755	427	PDE error dialog logs error app running 
+Quickar:212755	23	PDE error dialog logs app web engine message box compiler 
+================================================
+
+Baseline:181523	11	Plug Dependencies View Sorting correct 
+Quickar:181523	3	Plug Dependencies View variables jsp custom fill list 
+================================================
+
+Baseline:206610	1793	build fresh workspace 
+Quickar:206610	28	workspace reference folder projects builds project 
+================================================
+
+Baseline:215314	13	manifest editor content assist additional info wrong status text 
+Quickar:215314	180	editor content info status text 
+================================================
+
+Baseline:160017	23	Quickfix Service Export Service 
+Quickar:160017	21	Quickfix Service Export work layer client call instance 
+================================================
+
+Baseline:299792	225	CCE invoking quick editor 
+Quickar:299792	-1	CCE editor 
+================================================
+
+Baseline:146711	24	PDE Externalize Strings tool folders Localization field 
+Quickar:146711	127	PDE Strings tool folders Localization field 
+================================================
+
+Baseline:278289	322	doc Category Editor 
+Quickar:278289	322	doc Category Editor 
+================================================
+
+Baseline:213268	126	open plug artifact filter stringent 
+Quickar:213268	72	plug artifact filter 
+================================================
+
+Baseline:166680	171	META INF bundle manifest 
+Quickar:166680	244	META INF bundle 
+================================================
+
+Baseline:115484	105	PDE Export read qualifiers map files 
+Quickar:115484	94	PDE Export qualifiers map files jar log properties directory xml 
+================================================
+
+Baseline:139037	1431	PDE resolve translated names plugins directory format 
+Quickar:139037	1385	PDE resolve names plugins directory format 
+================================================
+
+Baseline:274724	22	tooling component wizard honour dialog font 
+Quickar:274724	22	tooling component wizard honour dialog font 
+================================================
+
+Baseline:183072	374	Manifest Editors Add Sort button Dependencies 
+Quickar:183072	226	Editors Sort button Dependencies size custom action radio panel 
+================================================
+
+Baseline:227105	663	plugin xml source editor support content assist identifiers 
+Quickar:227105	2132	plugin xml source editor support content identifiers 
+================================================
+
+Baseline:150305	20	Combo box lose cursor Linux 
+Quickar:150305	3	Combo box cursor Linux dialog mouse combo process j 
+================================================
+
+Baseline:183073	53	Manifest Editors 
+Quickar:183073	-1	Editors 
+================================================
+
+Baseline:125221	147	doc missing context 
+Quickar:125221	79	doc context xml menu web servlet classloader 
+================================================
+
+Baseline:208164	17	Regression Extension search longer highlighted plugin editor 
+Quickar:208164	16	Regression Extension search plugin editor 
+================================================
+
+Baseline:135976	292	Enhance PDE support extension points namespace 
+Quickar:135976	292	PDE support extension points namespace 
+================================================
+
+Baseline:165672	400	Option wanted add specific set plugins minimally required plugins 
+Quickar:165672	-1	Option plugins 
+================================================
+
+Baseline:198961	24	Feature dependency calculations include 
+Quickar:198961	6	Feature dependency calculations 
+================================================
+
+Baseline:198965	24	Feature Editor find feature dependencies correctly 
+Quickar:198965	69	Feature Editor feature dependencies 
+================================================
+
+Baseline:181058	272	Missing friends settable warning error 
+Quickar:181058	132	friends error 
+================================================
+
+Baseline:195394	867	Manifest Editors NPE org eclipse pde internal editor plugin ImportPackageSection 
+Quickar:195394	1	Editors NPE org pde editor plugin Import Package Section ImportPackageSection dom xml assembly project jetty 
+================================================
+
+Baseline:307524	1720	org eclipse wst xml Plug Manifest Editor unreliable 
+Quickar:307524	2996	org xml Plug Editor 
+================================================
+
+Baseline:157504	176	CCE define fragment 
+Quickar:157504	21	CCE fragment osgi projects xml message 
+================================================
+
+Baseline:184646	235	Launchers Add Required Plug ins acts weird 
+Quickar:184646	222	Launchers Plug ins acts plug container facilities command applet 
+================================================
+
+Baseline:97605	805	Dialog cut High Contrast 
+Quickar:97605	219	Dialog cut Contrast image time buttons references pattern 
+================================================
+
+Baseline:181063	42	NPE running Find Unsed Dependencies Dependencies View 
+Quickar:181063	37	NPE Dependencies View annotation variables activity jsp custom 
+================================================
+
+Baseline:184647	16	Feature Wizards Initialize OSGi config 
+Quickar:184647	6	Feature Wizards OSGi config 
+================================================
+
+Baseline:184644	501	Feature Editor Sorting incorrect 
+Quickar:184644	475	Feature Editor 
+================================================
+
+Baseline:429902	100	Support root level features attribute installMode root product configuration editor 
+Quickar:429902	18	Support root level features attribute Mode installMode product configuration editor cache log top plugin xml 
+================================================
+
+Baseline:174923	24	Rename bundle action 
+Quickar:174923	2089	bundle action 
+================================================
+
+Baseline:151884	43	NPE opening context menu site xml editor source 
+Quickar:151884	43	NPE context menu site xml editor source 
+================================================
+
+Baseline:151885	1251	CCEs PDE Properties plugin projects 
+Quickar:151885	363	CCEs PDE Properties plugin projects util project source dependencies assembly 
+================================================
+
+Baseline:186701	886	Target Environment Amnesia 
+Quickar:186701	886	Target Environment Amnesia 
+================================================
+
+Baseline:284496	680	Context Editor debug XML errors 
+Quickar:284496	109	Context Editor XML errors document schema node characters parser 
+================================================
+
+Baseline:97109	995	Clicking entry Classpath table plugin xml editor ArrayStoreException 
+Quickar:97109	1350	entry Classpath table plugin xml editor Array Store Exception ArrayStoreException 
+================================================
+
+Baseline:238934	44	NPE resetting target platform 
+Quickar:238934	42	NPE target platform 
+================================================
+
+Baseline:178517	43	Manifest Editor Code completion Manifest editor Equinox specific extensions 
+Quickar:178517	12	Editor Code completion editor Equinox extensions hash plugin property generation 
+================================================
+
+Baseline:201044	40	pde fragment wizard doesn transfer host maximum version wizard manifest 
+Quickar:201044	93	pde fragment wizard doesn transfer host maximum version 
+================================================
+
+Baseline:128345	15	Reload target platform target editor 
+Quickar:128345	17	target platform editor 
+================================================
+
+Baseline:256859	79	PDE Warning illegal characters feature xml complains chars 
+Quickar:256859	1181	PDE Warning characters feature xml chars 
+================================================
+
+Baseline:312156	155	selected Feature based config plug ins based 
+Quickar:312156	179	Feature config plug ins 
+================================================
+
+Baseline:290136	24	Cheat sheet editor saved 
+Quickar:290136	12	sheet editor 
+================================================
+
+Baseline:290138	1084	select nodes cheat sheet editor 
+Quickar:290138	253	nodes sheet editor plugin property cell order viewer 
+================================================
+
+Baseline:147298	660	Dependency Management projects targeting OSGi 
+Quickar:147298	386	Dependency Management projects OSGi bundle service source environment bundles 
+================================================
+
+Baseline:181091	103	Plug Dependencies View version number label 
+Quickar:181091	103	Plug Dependencies View version number label 
+================================================
+
+Baseline:181092	24	Plug Dependencies View Hide optional dependencies 
+Quickar:181092	18	Plug Dependencies View dependencies 
+================================================
+
+Baseline:201572	210	Manifest Editors Friends selected addition 
+Quickar:201572	176	Editors Friends addition 
+================================================
+
+Baseline:321891	115	Missing quick 
+Quickar:321891	-1	
+================================================
+
+Baseline:216937	11	Missing singleton directive result warning 
+Quickar:216937	8	singleton directive result 
+================================================
+
+Baseline:230248	277	open plug artifact dialog sort items 
+Quickar:230248	58	plug artifact dialog sort items box list collection order ins 
+================================================
+
+Baseline:130414	145	Open misleading 
+Quickar:130414	-1	
+================================================
+
+Baseline:138093	90	Adding Imported Provide Version 
+Quickar:138093	17	Version 
+================================================
+
+Baseline:269685	125	Importing plug ins source files 
+Quickar:269685	112	plug ins source files 
+================================================
+
+Baseline:82803	71	launch config product app 
+Quickar:82803	71	launch config product app 
+================================================
+
+Baseline:135025	41	improve plugins fragments filter 
+Quickar:135025	40	plugins fragments filter 
+================================================
+
+Baseline:153460	1090	NPE occurs retrieving content CVS 
+Quickar:153460	1006	NPE content CVS 
+================================================
+
+Baseline:156021	6251	Exception clicking translatable attribute 
+Quickar:156021	3489	Exception attribute thread xml element annotation values 
+================================================
+
+Baseline:163707	873	Support Bundle ActivationPolicy OSGi 
+Quickar:163707	134	Support Bundle Activation Policy ActivationPolicy OSGi bundle service bundles components 
+================================================
+
+Baseline:219513	83	validation delete empty useless plugin xml 
+Quickar:219513	968	validation plugin xml 
+================================================
+
+Baseline:174457	16	finish button correct plug project wizard time Template Selection visible 
+Quickar:174457	13	finish button plug project wizard time Template Selection 
+================================================
+
+Baseline:154493	124	plugin xml 
+Quickar:154493	124	plugin xml 
+================================================
+
+Baseline:176509	84	AssertionFailedException clicking dependencies link 
+Quickar:176509	219	Assertion Exception AssertionFailedException dependencies link 
+================================================
+
+Baseline:225148	296	PDE target doesn work easily 
+Quickar:225148	120	PDE target doesn work loop function applet folder directory 
+================================================
+
+Baseline:109440	1829	Improvements Convert plugin project 
+Quickar:109440	222	Improvements plugin project web source dependencies jar development 
+================================================
+
+Baseline:173447	44	Generated schema description valid HTML 
+Quickar:173447	7	schema description HTML content tags parser validation table 
+================================================
+
+Baseline:150916	82	Plug wizard resizes full screen height 
+Quickar:150916	60	Plug wizard resizes screen height width capture component output image 
+================================================
+
+Baseline:212869	47	Manifest Editors system bundle dependency 
+Quickar:212869	35	Editors system bundle dependency property resource properties jar tray 
+================================================
+
+Baseline:185225	116	view doesn refresh plug 
+Quickar:185225	30	view doesn plug work layer component list table 
+================================================
+
+Baseline:138127	470	Dependecy Analysis side edit plugin xml file 
+Quickar:138127	189	Dependecy Analysis side plugin xml file jar properties web client 
+================================================
+
+Baseline:149900	980	PDE Locks adding ton required plugins sweet time 
+Quickar:149900	1329	PDE Locks ton plugins time 
+================================================
+
+Baseline:202124	11	NullPointerException Manifest Editor doubleclicking sync Dependency 
+Quickar:202124	107	Pointer Exception NullPointerException Editor sync Dependency 
+================================================
+
+Baseline:167313	628	File System Target Provisioner wizard glitches 
+Quickar:167313	2328	System Target Provisioner wizard glitches 
+================================================
+
+Baseline:343455	442	NPE Launching workspace project deleted disk 
+Quickar:343455	14	NPE workspace project disk web source dependencies jar plugin 
+================================================
+
+Baseline:108954	3035	Error project creation manifest file created classpath 
+Quickar:108954	2320	Error project creation file classpath 
+================================================
+
+Baseline:157087	38	adopt ICU Collator APIs StructuredViewer 
+Quickar:157087	68	ICU Collator APIs Viewer StructuredViewer 
+================================================
+
+Baseline:183708	25	Plug Dependencies View opening view manifest editor 
+Quickar:183708	16	Plug Dependencies View view editor layer plugin model table list 
+================================================
+
+Baseline:228765	70	existing config ini product editor 
+Quickar:228765	65	config ini product editor 
+================================================
+
+Baseline:169373	23	Manifest Editor Provide quickfix flag Provide 
+Quickar:169373	309	Editor quickfix flag 
+================================================
+
+Baseline:172451	18	Missing build properties file paralyzes PDE tooling 
+Quickar:172451	58	properties file paralyzes PDE tooling 
+================================================
+
+Baseline:183715	41	Refactoring renaming bundle update references dependents 
+Quickar:183715	55	bundle references dependents 
+================================================
+
+Baseline:220069	1039	Plug ins view malformed content description 
+Quickar:220069	441	Plug ins view content description layer table jsp model log 
+================================================
+
+Baseline:118694	22	Simplify config ini launcher 
+Quickar:118694	22	config ini launcher 
+================================================
+
+Baseline:166826	547	launch runtime workbench binary imported plug ins 
+Quickar:166826	119	launch runtime workbench plug ins exception jar exceptions error classpath 
+================================================
+
+Baseline:234414	41	NPE creating plugin Host plug link 
+Quickar:234414	27	NPE plugin Host plug link editor assembly project jetty ins 
+================================================
+
+Baseline:206765	364	PDE shoud ignore osgi Manifests workspace projects 
+Quickar:206765	273	PDE shoud osgi workspace projects 
+================================================
+
+Baseline:264106	69	target Provide careful handling Remove button pressed 
+Quickar:264106	42	target button size custom action radio color 
+================================================
+
+Baseline:176045	1708	Extension editor doesn remember field 
+Quickar:176045	48	Extension editor doesn field work access plugin property input 
+================================================
+
+Baseline:241074	252	templates HelloRCP template externalized strings 
+Quickar:241074	254	templates RCP HelloRCP template strings 
+================================================
+
+Baseline:108466	3205	Dups Eclipse ClassLoader getResources String 
+Quickar:108466	334	Dups Eclipse Class Loader ClassLoader Resources getResources String project plugin 
+================================================
+
+Baseline:79794	17	Adopt hyperlink feature 
+Quickar:79794	17	hyperlink feature 
+================================================
+
+Baseline:102326	37	Feature Fragment Export JarSigning dialog keypass field 
+Quickar:102326	18	Feature Fragment Export Jar dialog keypass field box access input 
+================================================
+
+Baseline:163258	129	Bundle Localization Manifest Header honored plugin xml editor 
+Quickar:163258	58	Bundle Localization Header plugin xml editor web javax persistence context 
+================================================
+
+Baseline:171962	14	translatable attribute set 
+Quickar:171962	192	attribute 
+================================================
+
+Baseline:225210	12	Plug Manifest builder IllegalArgumentException Bundle Classpath 
+Quickar:225210	124	Plug builder Argument Exception IllegalArgumentException Bundle Classpath 
+================================================
+
+Baseline:216504	25	Support multiple Lazy Activation headers 
+Quickar:216504	84	Support Activation headers 
+================================================
+
+Baseline:155070	67	Exporting feature saving Ant script generates functional script 
+Quickar:155070	26	Exporting feature Ant script shell task javax ant bug 
+================================================
+
+Baseline:170941	140	Execution Environment launching Eclipse Application 
+Quickar:170941	125	Execution Environment Eclipse Application 
+================================================
+
+Baseline:197056	347	Schema Editors Move attribute field deprecated field 
+Quickar:197056	127	Schema Editors attribute field 
+================================================
+
+Baseline:205767	11	NPE Plugin Fragment Wizards triggered Product Configuration Editor 
+Quickar:205767	11	NPE Plugin Fragment Wizards Product Configuration Editor 
+================================================
+
+Baseline:182215	20	Plug Dependencies view Initial empty confusing 
+Quickar:182215	13	Plug Dependencies view layer model table list log 
+================================================
+
+Baseline:61894	5517	Sort plugin dependencies feature content automatically manifest files 
+Quickar:61894	4766	Sort plugin dependencies feature content files 
+================================================
+
+Baseline:238539	1301	doc Description extension point org eclipse pde osgiFrameworks 
+Quickar:238539	4	doc Description extension point org pde osgi Frameworks osgiFrameworks dom 
+================================================
+
+Baseline:238536	100	Feature editor Included feature order matters 
+Quickar:238536	95	Feature editor feature order matters 
+================================================
+
+Baseline:151502	634	Change order fields extensions 
+Quickar:151502	54	Change order fields extensions methods reverse reflection elements objects 
+================================================
+
+Baseline:175566	954	Manifest editor preference leaks images 
+Quickar:175566	677	editor preference leaks images 
+================================================
+
+Baseline:151501	80	Vertical layout weird Extensions 
+Quickar:151501	21	layout Extensions manager directory managers memory keyboard 
+================================================
+
+Baseline:183250	27	Product Editor add duplicate features 
+Quickar:183250	42	Product Editor features 
+================================================
+
+Baseline:202195	27	Create PDEBuilderHelper 
+Quickar:202195	2	PDEBuilder Helper PDEBuilderHelper source classpath project 
+================================================
+
+Baseline:296917	511	NPE building workspace 
+Quickar:296917	511	NPE building workspace 
+================================================
+
+Baseline:133072	279	launch Eclipse Application argument 
+Quickar:133072	279	launch Eclipse Application argument 
+================================================
+
+Baseline:213457	238	erroneous extension validation content assist 
+Quickar:213457	35	extension validation content form xml schema jsp web 
+================================================
+
+Baseline:474069	78	Replace valueOf 
+Quickar:474069	52	value valueOf copy primitives difference enum 
+================================================
+
+Baseline:171473	392	Remove references Headers parseManifest 
+Quickar:171473	154	references Headers parseManifest html xml output character regex 
+================================================
+
+Baseline:266711	104	target Making target empty NPE 
+Quickar:266711	51	target NPE 
+================================================
+
+Baseline:208855	982	logivew set selections accept object contributions 
+Quickar:208855	53	logivew selections object contributions reference serialization creation complex session 
+================================================
+
+Baseline:221655	56	plug ins view useless content description 
+Quickar:221655	53	plug ins view content description layer table jsp model log 
+================================================
+
+Baseline:197077	14	Schema Editors Read description writable 
+Quickar:197077	8	Schema Editors Read description 
+================================================
+
+Baseline:149976	25	Automated Management Dependencies add dependencies link result illegally formatted header 
+Quickar:149976	23	Management Dependencies dependencies link result header jar project query column 
+================================================
+
+Baseline:199129	41	Bundle Localization header Fragments externalized 
+Quickar:199129	39	Bundle Localization header Fragments 
+================================================
+
+Baseline:199134	210	NPE Extensions 
+Quickar:199134	210	NPE Extensions 
+================================================
+
+Baseline:207836	75	Search extension point references don multiple versions 
+Quickar:207836	52	extension point references versions values jsp entry jar filename 
+================================================
+
+Baseline:154593	12	PDE Tools Update Classpath deletes Access Rules 
+Quickar:154593	12	PDE Tools Update Classpath deletes Access Rules 
+================================================
+
+Baseline:168417	57	Generated Ant Script export plugin projects working 
+Quickar:168417	19	Ant Script export plugin projects task jar script dependencies project 
+================================================
+
+Baseline:153575	126	refactor actions 
+Quickar:153575	126	refactor actions 
+================================================
+
+Baseline:170474	2558	Dependancies initially set project creation wizard 
+Quickar:170474	-1	Dependancies project creation wizard 
+================================================
+
+Baseline:160233	139	PDE understand export groupings 
+Quickar:160233	139	PDE export groupings 
+================================================
+
+Baseline:228840	35	Invalid Plug error severity warning 
+Quickar:228840	7	Plug error severity message compiler codes memory messages 
+================================================
+
+Baseline:223727	42	Product editor handle platform config ini files 
+Quickar:223727	34	Product editor platform config ini files 
+================================================
+
+Baseline:136172	601	quickfix remove redundant internal 
+Quickar:136172	49	quickfix marker check 
+================================================
+
+Baseline:199149	299	Manifest highlighting needed PDE refactoring areas 
+Quickar:199149	852	PDE areas 
+================================================
+
+Baseline:308214	14	bundle selection features OSGi launch configuration 
+Quickar:308214	14	bundle selection features OSGi launch configuration 
+================================================
+
+Baseline:152054	1049	tooltip description 
+Quickar:152054	1049	tooltip description 
+================================================
+
+Baseline:90102	252	Search references Export Packages 
+Quickar:90102	2	references Export Packages function garbage entity drop objects 
+================================================
+
+Baseline:241145	2028	refactoring move code separate plug ins 
+Quickar:241145	1010	move code plug ins source generation error sample client 
+================================================
+
+Improved:61.46%, Degraded: 28.82%, Preserved: 9.72%
+
+Important Notes:
+* (-1) represents missing ranks or result not found.
+* Published data are based on our preliminary investigation, and we are still working on this idea.
+* Please contact masud.rahman@usask.ca for more information.

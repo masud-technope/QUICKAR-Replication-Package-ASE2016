@@ -1,0 +1,900 @@
+Type:	BugID	QE	Query
+===================================
+
+Baseline:312324	23	jSLP Change license BSD EPL 
+Quickar:312324	361	SLP jSLP Change license BSD EPL 
+================================================
+
+Baseline:267782	118	Discovery jSLP JmDNS Providers don clean bundle 
+Quickar:267782	93	Discovery SLP jSLP DNS JmDNS Providers bundle resource jar property 
+================================================
+
+Baseline:259072	11	Remotesvcs OSGi ServiceUIComponent violates Foundation 
+Quickar:259072	1	Remotesvcs OSGi Service UIComponent ServiceUIComponent Foundation bundle service client bundles 
+================================================
+
+Baseline:426497	13	org eclipse ecf internal discovery DiscoveryServiceListener register IServiceTyped listener type wildcards 
+Quickar:426497	30	org ecf discovery Discovery Service Listener DiscoveryServiceListener register IService listener type wildcards 
+================================================
+
+Baseline:170510	58	notifications IRC operators leaves channel 
+Quickar:170510	10	notifications IRC operators leaves channel socket shift alpha functions sound 
+================================================
+
+Baseline:228882	72	Discovery slp provider SLP service properties 
+Quickar:228882	72	Discovery slp provider SLP service properties 
+================================================
+
+Baseline:313365	14	Activate APITooling checks 
+Quickar:313365	5	APITooling checks 
+================================================
+
+Baseline:255006	17	Discovery SLP Fail handle string attributes comma 
+Quickar:255006	16	Discovery SLP Fail attributes comma number split context tag order 
+================================================
+
+Baseline:333850	31	osgi Remote service remote reference 
+Quickar:333850	11	osgi service reference web client pass windows layer 
+================================================
+
+Baseline:236066	16	ecf mylyn importing received task empty task list generates NullPointerExcepiton 
+Quickar:236066	3	ecf mylyn task list Pointer Excepiton NullPointerExcepiton objects lang elements 
+================================================
+
+Baseline:229921	1601	Missing javadoc statements compiler error 
+Quickar:229921	1567	javadoc statements compiler error 
+================================================
+
+Baseline:218159	31	Discovery jSLP Tests fail localhost external hostname 
+Quickar:218159	37	Discovery SLP jSLP Tests localhost hostname 
+================================================
+
+Baseline:282667	57	remotesrvs osgi parsing exception ethz iks osgi impl CodeAnalyzer 
+Quickar:282667	14	remotesrvs osgi exception ethz iks impl Code Analyzer CodeAnalyzer hash 
+================================================
+
+Baseline:303156	1479	API breaking change org eclipse ecf remoteservice IRemoteServiceProxy getRemoteServiceReference 
+Quickar:303156	7	API change org ecf remoteservice IRemote Service Proxy IRemoteServiceProxy Reference getRemoteServiceReference dom request call xml background 
+================================================
+
+Baseline:200754	610	discovery DiscoveryServiceTest pass 
+Quickar:200754	26	discovery Discovery Service Test DiscoveryServiceTest pass reference parameters parameter methods 
+================================================
+
+Baseline:332852	15	Discovery ZooDiscovery Slow Zookeeper startup timeout BundleActivator start 
+Quickar:332852	7	Discovery Zoo ZooDiscovery Zookeeper startup timeout Bundle Activator BundleActivator start web session thread connection time 
+================================================
+
+Baseline:244784	1803	Discovery jSLP Move Maintain jSLP code base Eclipse org 
+Quickar:244784	1832	Discovery SLP jSLP code base Eclipse org 
+================================================
+
+Baseline:332851	107	Discovery ZooDiscovery ServiceName ServiceInfo unset causing NPE 
+Quickar:332851	66	Discovery Zoo ZooDiscovery Service ServiceName Info ServiceInfo NPE work layer 
+================================================
+
+Baseline:406064	33	Discovery ZooDiscovery high cpu percentage server client zookeeper 
+Quickar:406064	10	Discovery Zoo ZooDiscovery cpu percentage server client zookeeper side web 
+================================================
+
+Baseline:194101	244	Increase user info pop time delay 
+Quickar:194101	111	Increase user info pop time delay input zone execution session 
+================================================
+
+Baseline:419902	20	OSGi NPE ethz iks osgi impl ChannelEndpointImpl updateTopics String String 
+Quickar:419902	10	OSGi NPE ethz iks osgi impl Channel Endpoint Impl ChannelEndpointImpl Topics updateTopics String format split lang bundle args 
+================================================
+
+Baseline:371768	1341	Zoodiscovery NPE unpublishing service 
+Quickar:371768	1342	Zoodiscovery NPE service 
+================================================
+
+Baseline:327749	107	OSGi NPE shutdown TCPChannelFactory 
+Quickar:327749	43	OSGi NPE shutdown TCPChannel Factory TCPChannelFactory hook bundle service bundles 
+================================================
+
+Baseline:277573	20	RemoteService remote service identifiable service registry setting org osgi service remoteserviceadmin RemoteConstants ENDPOINT SERVICE 
+Quickar:277573	20	Service RemoteService service registry org osgi remoteserviceadmin Constants RemoteConstants ENDPOINT SERVICE 
+================================================
+
+Baseline:315970	1394	Discovery DNS Discovery Browsing Registration Domains Domain Enumeration 
+Quickar:315970	1081	Discovery DNS Registration Domains Domain Enumeration 
+================================================
+
+Baseline:216644	51	irc bot Add command creating plug search query 
+Quickar:216644	23	irc bot command plug search query 
+================================================
+
+Baseline:198731	41	Wrong underline hyperlink recognition 
+Quickar:198731	22	hyperlink recognition 
+================================================
+
+Baseline:326221	2115	java lang LinkageError loader constraint violation loader instance org eclipse osgi internal baseadaptor DefaultClassLoader initiated loading type 
+Quickar:326221	865	java lang Linkage Error LinkageError loader constraint violation instance org osgi baseadaptor Default Class Loader DefaultClassLoader type util program web net io 
+================================================
+
+Baseline:200791	681	Discovery Deprecate String IServiceID getServiceType favor IServiceTypeID IServiceID getServiceTypeID 
+Quickar:200791	405	Discovery String IService IServiceID Service Type getServiceType favor IServiceTypeID getServiceTypeID format split lang request call 
+================================================
+
+Baseline:320081	195	Discovery Add functionality insert service manually 
+Quickar:320081	95	Discovery functionality insert service 
+================================================
+
+Baseline:199259	71	discovery ServiceInfo constructors cumbersome 
+Quickar:199259	20	discovery Service Info ServiceInfo constructors call auto instance objects reflection 
+================================================
+
+Baseline:256603	76	Discovery Remotesvcs Replace org eclipse ecf discovery EMF based 
+Quickar:256603	75	Discovery Remotesvcs org ecf discovery EMF 
+================================================
+
+Baseline:265816	411	Discovery Move IDiscoveryContainerAdapter Connect constants IContainerServiceInfoAdapter 
+Quickar:265816	311	Discovery IDiscovery Container Adapter IDiscoveryContainerAdapter constants IContainer Service Info IContainerServiceInfoAdapter work layer call uppercase annotations 
+================================================
+
+Baseline:256605	150	Discovery Remotesvcs Replace serviceAccessHandler command handler based approach 
+Quickar:256605	3539	Discovery Remotesvcs service Access Handler serviceAccessHandler command handler approach 
+================================================
+
+Baseline:320612	30	Discovery Unit tests fail broken detection external address 
+Quickar:320612	20	Discovery Unit tests detection address 
+================================================
+
+Baseline:220258	32	Download jobs download speed 
+Quickar:220258	26	jobs download speed upload dependencies progress source jvm 
+================================================
+
+Baseline:412261	16	Distributed EventAdmin log serialization failures 
+Quickar:412261	11	Event Admin EventAdmin log serialization failures properties xml level output 
+================================================
+
+Baseline:265312	88	Discovery JMDNS Replace binary jar sources 
+Quickar:265312	62	Discovery JMDNS jar sources 
+================================================
+
+Baseline:389230	123	Filetransfer testcases fails references files archived ECF repositories 
+Quickar:389230	120	Filetransfer testcases references files ECF repositories 
+================================================
+
+Baseline:206444	589	Discovery Providers dynamic aware 
+Quickar:206444	559	Discovery Providers 
+================================================
+
+Baseline:193136	21	IRC Add IRC server 
+Quickar:193136	703	IRC server 
+================================================
+
+Baseline:197745	26	IRC Hyperlink support IRC channels IRC 
+Quickar:197745	13	IRC Hyperlink support channels nio transaction regex library languages 
+================================================
+
+Baseline:331383	2130	Remote services Java primitives fail 
+Quickar:331383	128	services Java primitives web program library applet objects 
+================================================
+
+Baseline:314999	47	Discovery DNS Implement IDiscoveryAdvertiser 
+Quickar:314999	42	Discovery DNS IDiscovery Advertiser IDiscoveryAdvertiser 
+================================================
+
+Baseline:324215	284	remoteserviceadmin remoteservices implement remote services admin spec 
+Quickar:324215	115	remoteserviceadmin remoteservices services admin spec web client clients console permission 
+================================================
+
+Baseline:424060	1342	Support advertising advertisting IServiceInfos OSGi service registry 
+Quickar:424060	256	Support advertising IService Infos IServiceInfos OSGi service registry web client 
+================================================
+
+Baseline:318074	252	Discovery DNS NPE test comparator expected property missing 
+Quickar:318074	186	Discovery DNS NPE test comparator property 
+================================================
+
+Baseline:318075	58	Discovery Whitespaces allowed property 
+Quickar:318075	38	Discovery Whitespaces property 
+================================================
+
+Baseline:171138	426	collection created IContainers needed 
+Quickar:171138	228	collection IContainers 
+================================================
+
+Baseline:211587	1866	Discovery Move enhancements refactorings dev eclipse org 
+Quickar:211587	1366	Discovery enhancements refactorings dev org dom xml json exception implementation 
+================================================
+
+Baseline:314500	29	Discovery Zookeeper tests fail 
+Quickar:314500	25	Discovery Zookeeper tests 
+================================================
+
+Baseline:211585	414	Discovery JMDNS parsing problem service type defines naming authority 
+Quickar:211585	397	Discovery JMDNS problem service type authority 
+================================================
+
+Baseline:267910	50	access remote repositories proxy 
+Quickar:267910	46	access repositories proxy web field database memory methods 
+================================================
+
+Baseline:318086	16	Discovery discovery tests build ecf project org 
+Quickar:318086	16	Discovery discovery tests ecf project org 
+================================================
+
+Baseline:292995	126	Timeout number huge httpclient download 
+Quickar:292995	25	Timeout number httpclient download version port phone digits commons 
+================================================
+
+Baseline:213642	100	filetransfer api add remote file system browsing 
+Quickar:213642	72	filetransfer file system 
+================================================
+
+Baseline:323208	1537	Distribution Provider exceeds startup time limit existing services 
+Quickar:323208	1528	Distribution Provider startup time limit services web zone execution period 
+================================================
+
+Baseline:222866	288	title Connection Wizard 
+Quickar:222866	288	title Connection Wizard 
+================================================
+
+Baseline:319126	91	RemoteSvcs Wildcard IRemoteServiceContainerAdapter registerRemoteService String Object Dictionary fail 
+Quickar:319126	64	Svcs RemoteSvcs Wildcard IRemote Service Container Adapter IRemoteServiceContainerAdapter register registerRemoteService String Dictionary format split lang args set 
+================================================
+
+Baseline:411797	1421	xmpp org eclipse ecf core ContainerConnectException Login attempt failed ejabberd server 
+Quickar:411797	4330	xmpp org ecf core Container Exception ContainerConnectException Login attempt ejabberd server 
+================================================
+
+Baseline:222868	53	MSN mail password entered Finish button clicked 
+Quickar:222868	50	MSN mail password button 
+================================================
+
+Baseline:342686	25	ClassCastException RSA intents String 
+Quickar:342686	16	Class Exception ClassCastException RSA intents String 
+================================================
+
+Baseline:234141	784	org eclipse ecf docshare missing license headers 
+Quickar:234141	134	org ecf docshare license headers dom xml json exception http 
+================================================
+
+Baseline:321690	780	namespace glitch org ecllpse 
+Quickar:321690	575	namespace glitch org ecllpse dom xml schema json exception 
+================================================
+
+Baseline:261803	27	Increment org eclipse ecf docshare minor version number mark API 
+Quickar:261803	6	Increment org ecf docshare version number mark API dom control 
+================================================
+
+Baseline:321708	791	Modularize XMPP provider WRT remoteservices datashare dependencies 
+Quickar:321708	791	Modularize XMPP provider WRT remoteservices datashare dependencies 
+================================================
+
+Baseline:320175	1012	services shouldn constrained text types 
+Quickar:320175	1012	services shouldn text types 
+================================================
+
+Baseline:244908	918	Discovery Thread safety providers 
+Quickar:244908	788	Discovery Thread safety providers sleep thread dump call instance 
+================================================
+
+Baseline:296107	28	Discovery jSLP discard SLP protocol messages version 
+Quickar:296107	6	Discovery SLP jSLP protocol messages version number error control log 
+================================================
+
+Baseline:274613	13	Wizard handling IRC IDs fundamentally wrong special chatroom handling code 
+Quickar:274613	5	Wizard IRC IDs chatroom code source generation error sample client 
+================================================
+
+Baseline:325813	247	remoteservices provider XML RPC provider ECF 
+Quickar:325813	173	remoteservices provider XML RPC ECF document schema node parser response 
+================================================
+
+Baseline:264887	65	correct remove warnings ECF projects 
+Quickar:264887	1	warnings ECF projects source compiler errors web workspace 
+================================================
+
+Baseline:316595	308	Discovery Defer service retrieval unit tests 
+Quickar:316595	210	Discovery service retrieval unit tests web test client testing windows 
+================================================
+
+Baseline:195770	11	Browse Contacts dialog support filtering online active contacts 
+Quickar:195770	8	Contacts dialog support online contacts box transaction input regex library 
+================================================
+
+Baseline:320188	915	Discovery DNS IDiscoveryAdvertiser registration domains 
+Quickar:320188	1023	Discovery DNS IDiscovery Advertiser IDiscoveryAdvertiser registration domains 
+================================================
+
+Baseline:314558	18	Discovery DNS Add API checks test suite 
+Quickar:314558	3	Discovery DNS API checks test suite 
+================================================
+
+Baseline:146622	24	deserializeSharedObjectMessage custom problem 
+Quickar:146622	1	deserialize Message deserializeSharedObjectMessage custom problem lang methods properties tag component 
+================================================
+
+Baseline:277176	576	Service Discovery view working osgiservices 
+Quickar:277176	570	Service Discovery view osgiservices 
+================================================
+
+Baseline:326841	1647	RemoteSrvs Overwrite defaults org eclipse ecf provider TCPServerSOContainer system properties 
+Quickar:326841	12	Srvs RemoteSrvs defaults org ecf provider TCPServer SOContainer TCPServerSOContainer system properties log property dom xml bean 
+================================================
+
+Baseline:218300	20	Priority weight modeled unset 
+Quickar:218300	5	Priority weight process product set alternative regex 
+================================================
+
+Baseline:218306	148	Discovery jSLP JMDNS URI scheme JMDNS set jmdns jSLP sets depending actual SLP ServiceReply 
+Quickar:218306	88	Discovery SLP jSLP JMDNS URI scheme set jmdns sets Service ServiceReply result property size objects background 
+================================================
+
+Baseline:265408	118	Discovery Composite CompositeService ContainerEvent API 
+Quickar:265408	6	Discovery Composite Service CompositeService Container Event ContainerEvent API call documentation 
+================================================
+
+Baseline:199366	51	IRC Connection Wizard filters character 
+Quickar:199366	51	IRC Connection Wizard filters character 
+================================================
+
+Baseline:218310	74	Discovery jSLP ServiceType jSLP starts service 
+Quickar:218310	92	Discovery SLP jSLP Service Type ServiceType starts service 
+================================================
+
+Baseline:265410	132	Discovery Reorder test inheritance setUp tearDown bugs 
+Quickar:265410	193	Discovery test inheritance set setUp Down tearDown bugs 
+================================================
+
+Baseline:421569	911	Remove dependency IExtensionRegistry 
+Quickar:421569	568	dependency IExtension Registry IExtensionRegistry injection project scope resolve source 
+================================================
+
+Baseline:316106	13	Discovery DNS Add API configure DNS resolver 
+Quickar:316106	18	Discovery DNS API resolver 
+================================================
+
+Baseline:461000	2199	Tooling Provide Remote Services Perspective 
+Quickar:461000	-1	Tooling Services Perspective 
+================================================
+
+Baseline:259286	117	core sharedobject improve handling problems 
+Quickar:259286	39	core sharedobject problems dump multi processor implementation jdt 
+================================================
+
+Baseline:197332	228	IRC set topic channel 
+Quickar:197332	228	IRC set topic channel 
+================================================
+
+Baseline:254687	22	Discovery SLP ClassCircularityError bundle activation 
+Quickar:254687	19	Discovery SLP Class Circularity Error ClassCircularityError bundle activation lang resource 
+================================================
+
+Baseline:337624	384	Discovery ZooDiscovery silencing zookeeper startup publish shutdown 
+Quickar:337624	57	Discovery Zoo ZooDiscovery silencing zookeeper startup shutdown hook windows system 
+================================================
+
+Baseline:205532	13	IRC add hyperlinking chat subject box 
+Quickar:205532	19	IRC hyperlinking chat subject box 
+================================================
+
+Baseline:254684	493	core defer extension registry processing 
+Quickar:254684	488	core extension registry processing 
+================================================
+
+Baseline:343780	298	Infinite recursive call Zookeeper DiscoveryActivator 
+Quickar:343780	98	Infinite call Zookeeper Discovery Activator DiscoveryActivator function constructor methods web 
+================================================
+
+Baseline:219878	1234	core deprecated Eclipse LazyStart manifest entries 
+Quickar:219878	2011	core Eclipse Start LazyStart entries 
+================================================
+
+Baseline:327919	112	remoteservices xmpp containerID field remote service registry 
+Quickar:327919	86	remoteservices xmpp container containerID field service registry 
+================================================
+
+Baseline:273135	69	LogService implementation misses details logging 
+Quickar:273135	4	Service LogService implementation details org messages log call collection 
+================================================
+
+Baseline:192756	102	IRC channel join rid entered spam 
+Quickar:192756	49	IRC channel spam 
+================================================
+
+Baseline:223484	135	threads remain disconnect XMPP server 
+Quickar:223484	-1	threads XMPP server 
+================================================
+
+Baseline:211713	46	Suggested remoteservices API change IRemoteServiceContainerAdapter getRemoteServiceReferences InvalidSyntaxException 
+Quickar:211713	31	remoteservices API change IRemote Service Container Adapter IRemoteServiceContainerAdapter References getRemoteServiceReferences Syntax Exception InvalidSyntaxException thread request error call background 
+================================================
+
+Baseline:242950	38	IRCChannelContainer NPE disconnect connection timeouts 
+Quickar:242950	4	IRCChannel Container IRCChannelContainer NPE connection timeouts pool socket database network 
+================================================
+
+Baseline:267523	31	remotesvc api add api setting connect context IRemoteServiceContainerAdapter 
+Quickar:267523	41	remotesvc context IRemote Service Container Adapter IRemoteServiceContainerAdapter 
+================================================
+
+Baseline:192778	213	Easy browse contacts key shortcut search dialog 
+Quickar:192778	174	Easy contacts key shortcut search dialog 
+================================================
+
+Baseline:267528	75	Discovery WebBrowser Add command discovery opens internal web browser http https service type 
+Quickar:267528	14	Discovery Web Browser WebBrowser command discovery web browser http https service type app services xml applications client 
+================================================
+
+Baseline:337673	150	remoteserviceadmin Proxies classloader accessible 
+Quickar:337673	52	remoteserviceadmin Proxies classloader custom context access issues instantiate 
+================================================
+
+Baseline:275722	1593	abstraction ECF 
+Quickar:275722	257	abstraction ECF extension implementation model lead 
+================================================
+
+Baseline:259856	72	error message chat message correct 
+Quickar:259856	72	error message chat 
+================================================
+
+Baseline:411935	283	filetransfer httpclient Timeout unit test org eclipse ecf tests filetransfer URLRetrievePauseResumeTest testReceiveFile 
+Quickar:411935	44	filetransfer httpclient Timeout unit test org ecf tests URLRetrieve Pause Test URLRetrievePauseResumeTest testReceiveFile testing junit integration io dom 
+================================================
+
+Baseline:264984	29	Discovery Composite junit framework AssertionFailedError Test listener received discovery event expected 
+Quickar:264984	202	Discovery Composite junit framework Assertion Error AssertionFailedError Test listener discovery event 
+================================================
+
+Baseline:404763	218	support usage ECF remote services 
+Quickar:404763	160	support usage ECF services web memory cpu client transaction 
+================================================
+
+Baseline:319259	31	Discovery jSLP ServiceName illegal characters 
+Quickar:319259	8	Discovery SLP jSLP Service ServiceName characters unicode escape set user 
+================================================
+
+Baseline:319269	2631	RemoteSrvc Split org eclipse ecf tests remoteservice osgi bundle 
+Quickar:319269	2335	Srvc RemoteSrvc Split org ecf tests remoteservice osgi bundle unit 
+================================================
+
+Baseline:328996	36	Discovery DNS opening Service Discovery view ClassCastException thrown 
+Quickar:328996	14	Discovery DNS Service view Class Exception ClassCastException lang thread layer 
+================================================
+
+Baseline:328999	55	Discovery resilient broken hostnames 
+Quickar:328999	11	Discovery hostnames 
+================================================
+
+Baseline:206118	662	Trace utility offer trace method takes method 
+Quickar:206118	1223	Trace utility offer trace method 
+================================================
+
+Baseline:230182	44	Discovery SLP priority weight protocol unset 
+Quickar:230182	16	Discovery SLP priority weight protocol thread queue network change methods 
+================================================
+
+Baseline:235302	42	Discovery SLP ethz iks slp ServiceURL getUserInfo StringUtils split String String org eclipse ecf provider jslp identity JSLPNamespace createInstance Object 
+Quickar:235302	8	Discovery SLP ethz iks slp Service URL ServiceURL User Info getUserInfo String Utils StringUtils split org ecf provider jslp identity JSLPNamespace Instance createInstance format custom request xml instance 
+================================================
+
+Baseline:269091	499	Incorrect file requests address host 
+Quickar:269091	207	file requests address host jar properties xml log batch 
+================================================
+
+Baseline:425761	127	BasicTopologyManagerImpl notify EndpointListeners 
+Quickar:425761	6	Topology Manager Impl BasicTopologyManagerImpl Endpoint Listeners EndpointListeners authentication work entity 
+================================================
+
+Baseline:266539	770	Discovery zeroconf services 
+Quickar:266539	770	Discovery zeroconf services 
+================================================
+
+Baseline:234803	248	Discovery jSLP path supported 
+Quickar:234803	181	Discovery SLP jSLP path 
+================================================
+
+Baseline:226608	131	IContainerEjectedEvent getSerializable Throwable 
+Quickar:226608	1190	IContainer Event IContainerEjectedEvent 
+================================================
+
+Baseline:265010	99	Discovery Composite junit framework AssertionFailedError registered service 
+Quickar:265010	98	Discovery Composite junit framework Assertion Error AssertionFailedError service web client 
+================================================
+
+Baseline:164154	79	GenericContainerInstantiator ContainerCreateException 
+Quickar:164154	11	Container Instantiator GenericContainerInstantiator Exception ContainerCreateException thread error lang objects custom 
+================================================
+
+Baseline:464701	21	Discovery Zookeeper Auto reconnect issue 
+Quickar:464701	9	Discovery Zookeeper Auto issue performance servlet error mapping starttls 
+================================================
+
+Baseline:302394	35	Discovery jSLP Test parser bad tags 
+Quickar:302394	163	Discovery SLP jSLP Test parser tags 
+================================================
+
+Baseline:424262	556	Add support distribution provider EndpointDescription properties 
+Quickar:424262	877	support distribution provider Endpoint Description EndpointDescription properties 
+================================================
+
+Baseline:348487	338	JMDNS Discovery Thread slowing shutdown 
+Quickar:348487	338	JMDNS Discovery Thread shutdown 
+================================================
+
+Baseline:302407	75	remotesrvs osgi remote method invocation fails mismatch caused parameter type inheritance org eclipse ecf internal provider osgi RemoteServiceImpl callSync 
+Quickar:302407	1	remotesrvs osgi method invocation mismatch parameter type inheritance org ecf provider Service Impl RemoteServiceImpl call Sync callSync parameters instance argument returns calls 
+================================================
+
+Baseline:207686	27	parsing datetime format HttpClientRetrieveFileTransfer complete 
+Quickar:207686	2	datetime format Http Client Transfer HttpClientRetrieveFileTransfer io time upload side 
+================================================
+
+Baseline:207685	12	file transfer http fails locale 
+Quickar:207685	10	file transfer http locale 
+================================================
+
+Baseline:257861	79	Split org eclipse ecf discovery IDiscoveryContainerAdapter Locator Advertiser 
+Quickar:257861	153	Split org ecf discovery IDiscovery Container Adapter IDiscoveryContainerAdapter Locator Advertiser 
+================================================
+
+Baseline:257864	179	Turn checked runtime exceptions 
+Quickar:257864	135	runtime exceptions 
+================================================
+
+Baseline:264527	411	Discovery jSLP Receive Timed Error 
+Quickar:264527	7	Discovery SLP jSLP Error storage lang input items change 
+================================================
+
+Baseline:265551	136	pause reads entire resource HttpClient provider 
+Quickar:265551	136	pause resource Http Client HttpClient provider 
+================================================
+
+Baseline:297807	395	presence Replace org jivesoftware smack org jivesoftware smack CVS 
+Quickar:297807	27	presence org jivesoftware CVS 
+================================================
+
+Baseline:328011	54	OSGi whiteboard pattern IServiceListener IServiceTypeListener registration 
+Quickar:328011	16	OSGi whiteboard pattern IService Listener IServiceListener Type IServiceTypeListener registration design 
+================================================
+
+Baseline:302420	26	Discovery JmDNS listening configurable 
+Quickar:302420	5	Discovery DNS JmDNS address lookups creator cache resolve 
+================================================
+
+Baseline:342356	369	TCK RSA override properties handling incomplete 
+Quickar:342356	11	TCK RSA override properties log key system bean load 
+================================================
+
+Baseline:233809	472	Discovery SLP org eclipse ecf tests discovery DiscoveryTest addListenerRegisterAndWait TestListener IServiceInfo wait unnecessarily 
+Quickar:233809	403	Discovery SLP org ecf tests discovery Test DiscoveryTest Listener Register addListenerRegisterAndWait TestListener IService Info IServiceInfo wait unit dom xml thread junit 
+================================================
+
+Baseline:233808	662	Discovery SLP org eclipse ecf tests discovery DiscoveryTest testAddServiceListenerIServiceTypeIDIServiceListener fails SLP provider 
+Quickar:233808	213	Discovery SLP org ecf tests discovery Test DiscoveryTest test Service Listener IService Type IDIService testAddServiceListenerIServiceTypeIDIServiceListener provider unit junit cases dom methods 
+================================================
+
+Baseline:333137	205	Discovery view open properties view 
+Quickar:333137	141	Discovery view properties log system layer bean controller 
+================================================
+
+Baseline:342352	37	TCK RSA exports properties 
+Quickar:342352	10	TCK RSA exports properties log system key bean load 
+================================================
+
+Baseline:216405	1691	Migrate jSLP contribution ecf osuosl org dev eclipse org 
+Quickar:216405	100	SLP jSLP contribution ecf osuosl org dev dom xml json 
+================================================
+
+Baseline:258904	105	Discovery Remove declarations runtime IDCreateException 
+Quickar:258904	165	Discovery declarations runtime IDCreate Exception IDCreateException 
+================================================
+
+Baseline:328542	63	RemoteSrvs Change InetAddress getLocalHost getCanonicalHostName localhost 
+Quickar:328542	134	Srvs RemoteSrvs Change Inet Address InetAddress Host getLocalHost getCanonicalHostName localhost 
+================================================
+
+Baseline:329054	12	Discovery Composite org eclipse ecf provider discovery CompositeDiscoveryContainer connect IConnectContext handle ContainerConnectExceptions nested discovery providers 
+Quickar:329054	7	Discovery Composite org ecf provider discovery Container CompositeDiscoveryContainer IConnect Context IConnectContext Exceptions ContainerConnectExceptions providers 
+================================================
+
+Baseline:263514	40	Support docshare multi editors 
+Quickar:263514	40	Support docshare multi editors 
+================================================
+
+Baseline:251740	3509	filetransfer plan create filetransfer provider httpclient 
+Quickar:251740	2008	filetransfer plan provider httpclient commons authentication request servlet caller 
+================================================
+
+Baseline:317797	24	Discovery NPE test framework locator advertiser registered 
+Quickar:317797	19	Discovery NPE test framework locator advertiser 
+================================================
+
+Baseline:255329	12	Discovery JMDNS Fall hostname IServiceID getServiceName 
+Quickar:255329	6	Discovery JMDNS Fall hostname IService IServiceID Service getServiceName request call 
+================================================
+
+Baseline:349550	34	OSGi generate URLs full host 
+Quickar:349550	12	OSGi URLs host bundle service port web app 
+================================================
+
+Baseline:258927	981	Discovery SLP service properties correctly converted octet sequence Base 
+Quickar:258927	371	Discovery SLP service properties octet sequence Base web client log 
+================================================
+
+Baseline:209774	570	Simplify generalize discovery API summary bug 
+Quickar:209774	567	discovery API summary bug 
+================================================
+
+Baseline:232813	38	Discovery jSLP OSGi service registered 
+Quickar:232813	64	Discovery SLP jSLP OSGi service 
+================================================
+
+Baseline:217971	67	Discovery jSLP Tests warn preconditions 
+Quickar:217971	29	Discovery SLP jSLP Tests preconditions row items reason request instance 
+================================================
+
+Baseline:327029	15	OSGi RemoteSrvs Smart Proxy delegate original method 
+Quickar:327029	13	OSGi Srvs RemoteSrvs Smart Proxy delegate method 
+================================================
+
+Baseline:237936	21	Support compressed http mod gzip mod deflate 
+Quickar:237936	2	Support http mod gzip request proxy client https servlet 
+================================================
+
+Baseline:315248	20	Discovery ZooDiscovery GUID characters confuse Zookeeper nodes buildup 
+Quickar:315248	14	Discovery Zoo ZooDiscovery GUID characters Zookeeper nodes buildup unicode escape 
+================================================
+
+Baseline:310643	641	zookeeper remoteservices add usage zookeeper discovery examples 
+Quickar:310643	386	zookeeper remoteservices usage discovery examples 
+================================================
+
+Baseline:369023	538	NullPointerException tracing org eclipse ecf core util Trace catching 
+Quickar:369023	1121	Pointer Exception NullPointerException org ecf core util Trace 
+================================================
+
+Baseline:418684	20	org eclipse ecf server GenericServerContainerGroupFactory isSSLTransportSpecified Map API compatible bundle BREE 
+Quickar:418684	1	org ecf server Server Container Group Factory GenericServerContainerGroupFactory SSLTransport Map API bundle BREE client side web socket util 
+================================================
+
+Baseline:255352	15	Discovery JMDNS JMDNS exchanges priority weight 
+Quickar:255352	2	Discovery JMDNS exchanges priority weight thread queue process change product 
+================================================
+
+Baseline:221053	182	message XMPP Server displayed 
+Quickar:221053	163	message XMPP Server 
+================================================
+
+Baseline:198012	262	provider connect receive hyperlink 
+Quickar:198012	287	provider hyperlink 
+================================================
+
+Baseline:426374	706	Notify IServiceListeners registered services 
+Quickar:426374	233	IService Listeners IServiceListeners services web client clients functions overridden 
+================================================
+
+Baseline:266118	47	Discover Composite Test listener received expected discovery event expected 
+Quickar:266118	2	Discover Composite Test listener discovery event mouse key listeners change 
+================================================
+
+Baseline:319878	159	Discovery Add time live TTL IServiceInfo 
+Quickar:319878	152	Discovery time TTL IService Info IServiceInfo 
+================================================
+
+Baseline:238976	916	Shared Editor notification connect disconnect connection 
+Quickar:238976	-1	Editor notification connection 
+================================================
+
+Baseline:408450	1342	TCK Workaround slp string decoding 
+Quickar:408450	-1	TCK Workaround slp 
+================================================
+
+Baseline:193415	17	Contacts view menu entries disabled logged 
+Quickar:193415	13	Contacts view menu entries 
+================================================
+
+Baseline:257926	17	Discovery SLP JSLPServiceInfo IServiceInfo doesn SecurityException 
+Quickar:257926	7	Discovery SLP JSLPService Info JSLPServiceInfo IService IServiceInfo doesn Security Exception SecurityException work thread lang set loop 
+================================================
+
+Baseline:246155	86	Support multiple user log ins username password 
+Quickar:246155	332	Support user log ins password 
+================================================
+
+Baseline:259471	38	Discovery JMDNS JMDNSServiceIDTest testServiceIDFactory fails 
+Quickar:259471	77	Discovery JMDNS JMDNSService IDTest JMDNSServiceIDTest test Service IDFactory testServiceIDFactory 
+================================================
+
+Baseline:197005	292	xmpp XMPPChatRoomManager getInvitationSender supported 
+Quickar:197005	18	xmpp XMPPChat Room Manager XMPPChatRoomManager Invitation Sender getInvitationSender request call 
+================================================
+
+Baseline:266122	249	Discovery jSLP IServiceTypeID doesn protocol set 
+Quickar:266122	2606	Discovery SLP jSLP IService Type IServiceTypeID doesn protocol set 
+================================================
+
+Baseline:216467	452	IRC KOSMOS add support CQs 
+Quickar:216467	21	IRC KOSMOS support CQs transaction regex library languages framework 
+================================================
+
+Baseline:321428	44	RemoteSrvc OSGi DistributionProvider tests leave service registered test failure 
+Quickar:321428	9	Srvc RemoteSrvc OSGi Distribution Provider DistributionProvider tests leave service test failure web unit client junit cases 
+================================================
+
+Baseline:327060	16	discovery zookeeper location URI include port 
+Quickar:327060	16	discovery zookeeper location URI port 
+================================================
+
+Baseline:266640	664	Discovery simplify discovery host service labels 
+Quickar:266640	662	Discovery discovery host service labels 
+================================================
+
+Baseline:198043	156	open contacts dialog doesn recognize users groups 
+Quickar:198043	136	contacts dialog doesn users groups work box print list loop 
+================================================
+
+Baseline:266140	57	HttpFileRetrieveTransfer detect malformed URL 
+Quickar:266140	16	Http Transfer HttpFileRetrieveTransfer URL io parameters net upload jar 
+================================================
+
+Baseline:172952	13	xmpp provider XMPP provider implement IChatRoomManager createChatRoom 
+Quickar:172952	5	xmpp provider XMPP IChat Room Manager IChatRoomManager Chat createChatRoom custom 
+================================================
+
+Baseline:249240	87	remotesvcs Implement RFC 
+Quickar:249240	-1	remotesvcs RFC 
+================================================
+
+Baseline:254872	2287	Convert org eclipse ecf core identity IDCreateException RuntimeException 
+Quickar:254872	1656	org ecf core identity IDCreate Exception IDCreateException Runtime RuntimeException thread 
+================================================
+
+Baseline:259480	11	Discovery JMDNS ServiceProperties valid 
+Quickar:259480	60	Discovery JMDNS Service Properties ServiceProperties 
+================================================
+
+Baseline:275359	533	remove deprecated methods 
+Quickar:275359	-1	methods 
+================================================
+
+Baseline:194975	2057	Method connect providers obvious 
+Quickar:194975	1198	Method providers returns objects question el calls 
+================================================
+
+Baseline:216478	12	IProxyService optional 
+Quickar:216478	2	IProxy Service IProxyService layer client work call instance 
+================================================
+
+Baseline:273819	15	Containers instantiated time wizard opens 
+Quickar:273819	11	Containers time wizard 
+================================================
+
+Baseline:295335	84	Discovery jSLP Execute OSGi jUnit tests separately collect 
+Quickar:295335	59	Discovery SLP jSLP OSGi Unit jUnit tests testing unit test 
+================================================
+
+Baseline:196007	59	Presence Hover highlights support pictures 
+Quickar:196007	59	Presence Hover support pictures 
+================================================
+
+Baseline:194981	290	Don automatically scroll message received 
+Quickar:194981	135	Don scroll message 
+================================================
+
+Baseline:218027	35	Discovery jSLP Provider doesn handle scope correctly 
+Quickar:218027	9	Discovery SLP jSLP Provider doesn scope work session bean loop 
+================================================
+
+Baseline:225199	275	Translation Clarification org eclipse ecf provider filetransfer 
+Quickar:225199	202	Translation Clarification org ecf provider filetransfer dom xml json exception 
+================================================
+
+Baseline:418740	194	TCK OSGi NonSerializableException running remoteserviceadmin 
+Quickar:418740	41	TCK OSGi Exception NonSerializableException remoteserviceadmin thread bundle service error lang 
+================================================
+
+Baseline:165815	73	Local access local remoteservicereference implemented 
+Quickar:165815	26	access remoteservicereference field database memory methods web 
+================================================
+
+Baseline:200630	33	IRC messages handled 
+Quickar:200630	41	IRC messages 
+================================================
+
+Baseline:287666	510	releng filetransfer Removed javax microedition 
+Quickar:287666	288	releng filetransfer javax microedition 
+================================================
+
+Baseline:197049	33	NPE contacts browse dialogt 
+Quickar:197049	-1	NPE contacts dialogt 
+================================================
+
+Baseline:258488	64	NPE status code 
+Quickar:258488	64	NPE status code 
+================================================
+
+Baseline:196541	58	wizards Passwords reset user input username field 
+Quickar:196541	14	wizards Passwords user input field 
+================================================
+
+Baseline:329155	142	BundleContext longer valid DiscoveryServiceListener disposed IllegalStateException 
+Quickar:329155	14	Bundle Context BundleContext Discovery Service Listener DiscoveryServiceListener State Exception IllegalStateException thread lang error action set 
+================================================
+
+Baseline:224196	34	filetransfer wiring trust engine ssl handshake 
+Quickar:224196	34	filetransfer wiring trust engine ssl handshake 
+================================================
+
+Baseline:273357	23	implementation datashare APIs Java NIO 
+Quickar:273357	23	implementation datashare APIs Java NIO 
+================================================
+
+Baseline:328142	112	Discovery Composite Registering IService Type Listener OSGi service registry listeners notified 
+Quickar:328142	96	Discovery Composite IService Type Listener OSGi service registry listeners web 
+================================================
+
+Baseline:256975	42	remoteservices add RemoteServiceTracker utility 
+Quickar:256975	1371	remoteservices Service Tracker RemoteServiceTracker utility 
+================================================
+
+Baseline:221139	25	wizards Weak mail address validation User field 
+Quickar:221139	25	wizards mail address validation User field 
+================================================
+
+Baseline:256980	15	ecf collab contribute presence container 
+Quickar:256980	15	ecf collab presence container 
+================================================
+
+Baseline:408030	44	RestClientService ignores content encoding 
+Quickar:408030	2	Client Service RestClientService content side web length returns table 
+================================================
+
+Baseline:317925	18	Discovery DNS Add support signing DNS messages 
+Quickar:317925	17	Discovery DNS support signing messages 
+================================================
+
+Baseline:230369	33	Remove org eclipse ecf core util StringUtils replaceAllIgnoreCase String String String 
+Quickar:230369	5	org ecf core util String Utils StringUtils Case replaceAllIgnoreCase format 
+================================================
+
+Baseline:223207	78	filetransfer api handling lastModified timestamp 
+Quickar:223207	49	filetransfer timestamp 
+================================================
+
+Baseline:317920	39	Discovery DNS Add tracing capabilities provider 
+Quickar:317920	25	Discovery DNS capabilities provider 
+================================================
+
+Baseline:317921	1050	Discovery DNS Browsing registration domain record 
+Quickar:317921	1048	Discovery DNS registration domain record 
+================================================
+
+Baseline:266723	2113	Discovery clients determine service uniqueness 
+Quickar:266723	2058	Discovery clients service uniqueness 
+================================================
+
+Baseline:329197	109	Compiler errors projects OSGi API 
+Quickar:329197	109	Compiler errors projects OSGi API 
+================================================
+
+Baseline:327147	24	OSGi RemoteSrvs Smart Serialization fails Object Serializable objects 
+Quickar:327147	33	OSGi Srvs RemoteSrvs Smart Serialization objects 
+================================================
+
+Baseline:257017	242	Implement datashare APIs top Team API peers synchronize resources 
+Quickar:257017	314	datashare APIs top Team API peers resources 
+================================================
+
+Baseline:420858	217	OSGi Sync net ECF codebase 
+Quickar:420858	217	OSGi Sync net ECF codebase 
+================================================
+
+Baseline:315897	131	org eclipse ecf filetransfer IncomingFileTransferException File 
+Quickar:315897	98	org ecf filetransfer Transfer Exception IncomingFileTransferException thread io dom xml 
+================================================
+
+Improved:71.62%, Degraded: 18.47%, Preserved: 9.90%
+
+Important Notes:
+* (-1) represents missing ranks or result not found.
+* Published data are based on our preliminary investigation, and we are still working on this idea.
+* Please contact masud.rahman@usask.ca for more information.
+
+
+
