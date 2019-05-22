@@ -41,6 +41,9 @@ pages = {220--225} }
  **Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ASE2016b-pp.pdf)
 
+
+# Related Projects: [ACER](https://github.com/masud-technope/ACER-Replication-Package-ASE2017), [STRICT](https://github.com/masud-technope/STRICT-Replication-Package), and [BLIZZARD](https://github.com/masud-technope/BLIZZARD-Replication-Package-ESEC-FSE2018)
+
 ## Something not working as expected?
 
 Contact:  **Masud Rahman**  ([masud.rahman@usask.ca](mailto:masud.rahman@usask.ca))
